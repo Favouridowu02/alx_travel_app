@@ -1,0 +1,7 @@
+Django==5.2.5
+djangorestframework
+django-cors-headers
+django-environ
+mysqlclient
+black
+isort
